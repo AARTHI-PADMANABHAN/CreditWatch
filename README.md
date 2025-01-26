@@ -14,3 +14,13 @@ CreditWatch is a machine learning project aimed at predicting credit card paymen
 - Data Preprocessing: Involved feature engineering, scaling, and oversampling to address class imbalance.
 - Evaluation Metrics: Accuracy, Precision, Recall, F1-score, and ROC curves used for performance evaluation.
 - Feature Engineering: Added a custom feature "Dues" to capture financial behavior better.
+
+## Future Enhancements
+
+- Explore ensemble and deep learning methods to improve accuracy.
+- Test models on larger, diverse datasets for broader applicability.
+- Develop decision support systems for financial institutions.
+
+## Project Links
+
+- Dataset: Kaggle(https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset/data)
