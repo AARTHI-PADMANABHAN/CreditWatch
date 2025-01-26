@@ -4,6 +4,8 @@
 
 CreditWatch is a machine learning project aimed at predicting credit card payment defaults using demographic and financial data. The project leverages advanced data processing techniques and a variety of machine learning algorithms to develop a robust prediction model. By analyzing a dataset of 30,000 credit card clients, the project aims to provide insights that can help financial institutions mitigate credit risks and make informed decisions.
 
+![CreditWatch](CreditWatch_img.png)
+
 ## Key Features
 
 - Dataset: Credit card client data from Taiwan (April–September 2005) containing 30,000 records with 23 features and a binary target variable.
