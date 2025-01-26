@@ -6,8 +6,6 @@ CreditWatch is a machine learning project aimed at predicting credit card paymen
 
 ## Key Features
 
-Key Features
-
 - Dataset: Credit card client data from Taiwan (April–September 2005) containing 30,000 records with 23 features and a binary target variable.
 - Machine Learning Models: Includes Logistic Regression, Gaussian Naive Bayes, Random Forest, XGBoost, Support Vector Machine, and Multilayer Perceptron.
 - Best Model: The Random Forest model achieved the highest accuracy (93%) with a balanced performance across all metrics.
