@@ -23,4 +23,4 @@ CreditWatch is a machine learning project aimed at predicting credit card paymen
 
 ## Project Links
 
-- Dataset: Kaggle(https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset/data)
+- Dataset: [Kaggle](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset/data)
